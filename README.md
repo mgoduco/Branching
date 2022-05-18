@@ -1,8 +1,12 @@
 ## Git Command Cheat Sheet
 
+<<<<<<< HEAD
 Overview and cheat sheet of git commands. Includes several categories of commands.
 
 
+=======
+Overview and cheat  of git commands. Includes several categories of commands.
+>>>>>>> 5999281c7c12ed94cd9c6a00cdd095685f4b95fd
 
 ### Basic Commands
 
