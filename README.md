@@ -1,5 +1,6 @@
 ## Git Command Cheat Sheet
 
+Overview and cheat sheet
 
 ### Basic Commands
 
@@ -12,8 +13,3 @@
 * 'git status' - show status of local working tree
 * 'git log' - list commit history of current branch
 * 'git log --oneline' - compact listing of commit history
-
-### Branching Commands
-* 'git branch' - list local branches
-* 'git branch branchName' - create local branch 'branchName'
-* 'git checkout branchName' - checkout local branch 'branchName'
